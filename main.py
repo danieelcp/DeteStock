@@ -12,7 +12,7 @@ import cv2
 modelo = YOLO('yolo11s.pt')
 
 # Cargamos el video objeto de análisis (también se puede capturar una cámara en tiempo real: 'cv2.VideoCapture(0)')
-video = cv2.VideoCapture("../Videos/paseo_crowd.mp4")
+video = cv2.VideoCapture("../Videos/example.mp4")
 
 while True:
     ret, frame = video.read()
