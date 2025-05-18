@@ -1,4 +1,4 @@
-# 👁️ People Counter with YOLOv11
+# 👁️ DeteStock: People Counter with YOLOv11
 
 This project implements a **real-time people detection and counting system** using the **YOLOv11** computer vision model, ideal for use in retail environments, supermarkets, events, public transportation, and smart buildings.
 
